@@ -126,3 +126,21 @@ issue 是用来**提供举报和申诉**的，**不是用来**随便**交流**�
 1. “三进宫”的，即三次进入黑名单的。
 2. 因触犯黑名单规则或触犯了酷安规则，被小编封号的。
 3. 因自己的言行进了黑名单，而宣称要换号的。
+
+# License
+酷安黑名单项目使用 WTFPL 进行授权。
+```
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+Version 2, December 2004 
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
+
+ Everyone is permitted to copy and distribute verbatim or modified 
+ copies of this license document, and changing it is allowed as long 
+ as the name is changed. 
+
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
